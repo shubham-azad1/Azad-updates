@@ -1,4 +1,4 @@
 Azad-updates
 ============
 
-only authorised team members allowed to commit t the post
+only authorised team members allowed to commit to the repo.
