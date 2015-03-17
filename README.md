@@ -2,7 +2,7 @@ Azad-updates
 ============
 
 
-#Fork & Pull Steps for Github
+##Fork & Pull Steps for Github
 
 ###Step 1
 Go to this link: https://github.com/prango/Azad-updates
